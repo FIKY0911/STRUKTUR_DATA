@@ -1,15 +1,15 @@
 @startmindmap (struktur data)
-*struktur data
-**linier
-***static
-****array
-***dynamic
-****queue
-****stack
-****linkedlist
-**non-linier
-***tree
-***graph
+* struktur data
+** linier
+*** static
+**** array
+*** dynamic
+**** queue
+**** stack
+**** linkedlist
+** non-linier
+*** tree
+*** graph
 @endmindmap
 
 
