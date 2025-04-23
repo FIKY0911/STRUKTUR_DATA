@@ -1,8 +1,7 @@
 # STRTUKTUR DATA
 
-```
-Merupakan cara untuk mengatur, menyimpan, dan mengorganisir data didalam komputer agar dapat diakses, diolah, dan dimanipulasi secara efisien.
-```
+>> Merupakan cara untuk mengatur, menyimpan, dan mengorganisir data didalam komputer agar dapat diakses, diolah, dan dimanipulasi secara efisien.
+
 >> Terdiri dari:
 
 + Struktur Data Linier
