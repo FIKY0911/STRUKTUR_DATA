@@ -1,6 +1,7 @@
 {
   "version": "0.2.0",
   "configurations": [
+    
     {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
@@ -8,8 +9,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/root/STRUKTUR_DATA",
-      "program": "/root/STRUKTUR_DATA/build/Debug/outDebug",
+      "cwd": "/root/STRUKTUR_DATA/pert4/cpp/logic_building",
+      "program": "/root/STRUKTUR_DATA/pert4/cpp/logic_building/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
