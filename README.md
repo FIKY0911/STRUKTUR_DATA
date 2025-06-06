@@ -1,0 +1,1 @@
+# STRUKTUR_DATA
